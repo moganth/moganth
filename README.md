@@ -22,11 +22,5 @@ Let's make something awesome together! 🚀💡
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=moganth&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src="https://api.imgflip.com/get_memes" width="512px"/>
-
-### 😂 Random Dev Meme
-<img src="https://memes.cyclic.app/api" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=moganth&icon=0&color=0)](https://visitcount.itsvg.in)
