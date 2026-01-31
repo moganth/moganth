@@ -10,9 +10,7 @@ When I'm not coding, you might find me:
 - Making sense of Docker images and Helm charts 🐳📦
 - Tinkering with hardware, electronics, and PCB design 🔧🛠️📐
 
-Let's make something awesome together! 🚀💡
-
-# 🎮 Just me erasing my contributions😁
+# 🎮 Just casually sabotaging myself, don’t mind me 😁
 ![My GitHub Game](game.gif)
 
 # 💻Tech Stack
