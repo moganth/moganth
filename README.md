@@ -12,7 +12,7 @@ When I'm not coding, you might find me:
 
 Let's make something awesome together! 🚀💡
 
-# 🎮 GitHub Space Shooter
+# 🎮 Just me erasing my contributions😁
 ![My GitHub Game](game.gif)
 
 # 💻Tech Stack
