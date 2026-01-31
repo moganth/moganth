@@ -4,6 +4,9 @@ Hey there! 👋 I'm Moganth
 Just a curious human trying to make computers and circuits do cool things. 🤓💻⚡
 I write code, break code, fix code, and sometimes wonder if the bug was intentional. 🐛✨
 
+## 🎮 GitHub Space Shooter
+![My GitHub Game](game.gif)
+
 When I'm not coding, you might find me:
 - Experimenting with AI & machine learning 🤖
 - Playing around with cloud & Kubernetes ☁️🚀
